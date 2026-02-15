@@ -1,6 +1,6 @@
 console.log("Hello! I'm your coding fun fact guide!");
 
-let botName = "John Aaron "Erzo" Gicana;
+let botName = "John Aaron Gicana";
 let botLocation = "the Console";
 let favoriteLanguage = "JavaScript";
 
